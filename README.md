@@ -1,0 +1,2 @@
+step-by-step guide to creating a custom AI agent using LangGraph with Web Search, RAG, and NL2SQL tools. By following this built an AI agent capable of performing diverse tasks such as retrieving real-time data, answering questions based on document-based knowledge, and executing SQL queries directly from natural language commands. 
+This hands-on approach has equipped with practical knowledge of integrating multiple tools into a stateful AI workflow using LangGraph.
